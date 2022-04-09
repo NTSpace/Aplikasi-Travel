@@ -8,7 +8,7 @@ class MainScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Wisata Bandung'),
+        title: const Text('Wisata Bandung cuy'),
       ),
       body: ListView.builder(
         itemBuilder: (context, index) {
